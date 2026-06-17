@@ -96,8 +96,5 @@ Lower values indicate more accurate watermark recovery.
 
 ## Author
 
-Mohammad Mahdi Bagheri
+Fatemeh Bagheri
 
-M.Sc. Student
-
-Shahed University
